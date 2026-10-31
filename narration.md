@@ -110,7 +110,7 @@ gets a lot of use.)*
 ### ⏱ 1:16.5 — END CARD (scene 7)
 
 **1:18.7**
-> **Nos da, Cwm Twp. Build strong, build level — but leave the gate
+> **Nos da, Cwm Dwl. Build strong, build level — but leave the gate
 > a window.**
 
 *MUSIC OUT.*

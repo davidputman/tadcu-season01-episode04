@@ -75,7 +75,7 @@ very slightly tilted, entirely self-aware.
 
 **THE END.**
 
-> *Next episode: Cwm Twp goes to the show — and Dott enters herself.
+> *Next episode: Cwm Dwl goes to the show — and Dott enters herself.
 > Ymlaen!*
 
 *Nos da.*
