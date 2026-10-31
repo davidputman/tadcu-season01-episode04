@@ -46,4 +46,4 @@ latched, level, and one inch higher than before.
 
 Same flat 2-D vector series language (HTML + CSS + SVG, no assets).
 Runtime ~80 seconds across 7 panels. © 2026 — Tadcu series. Production run
-`test04` of the Cwm Dwl production unit.
+`episode04` of the Cwm Dwl production unit.
