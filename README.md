@@ -20,7 +20,7 @@ scene.
 
 ## Story so far
 
-Episodes 1–3 live in `../test01`, `../test02`, `../test03`. So far: sheep
+Episodes 1–3 live in `../episode01`, `../episode02`, `../episode03`. So far: sheep
 escaped, a parcel contained another parcel, and Bryn beat the needle at
 the vet's. This week's end-card promise comes due.
 
